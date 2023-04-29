@@ -1,1 +1,1 @@
-# xietong-chajian
+#建筑软件之间互导入的协同插件
